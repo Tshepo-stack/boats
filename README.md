@@ -1,2 +1,0 @@
-# boats
-Boat page
